@@ -1,0 +1,55 @@
+## Shukul Infotech
+- *Jr.Node.js Developer* | JUN'19 - MAY'21
+- ![shukul](../assets/shukul.jpeg)
+- Tags: Shukul Infotech
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Wrote reliable code for front-end and back-end both. Successfully managed databases and servers, ensuring uptime of over 99% and a 25% reduction in system downtime
+  - Worked on and delivered multiple MLM and E-commerce projects using Node.js, Express.js, MySQL, MongoDB , Sequelize and Angular, resulting in a 30% increase in company revenue and a 20% improvement in customer satisfaction.
+  - Implemented JSON Web Token (JWT) authorization for secure authentication and access control in various projects, ensuring data integrity and user privacy.
+  - Managed application deployment and monitoring using PM2, ensuring high availability and performance of the deployed applications.
+  - Prepared and presented project status reports by collecting, analyzing, and summarizing information and trends, resulting in a 15% improvement in project visibility and communication.
+  - Effectively managed and collaborated with a team of back-end developers to meet project requirements within the given time constraint, resulting in a 10% reduction in project timelines and a 20% improvement in team communication and collaboration.
+  - Successfully managed the entire NodeJS team, including developing and updating project plans for IT projects, resulting in a 30% improvement in project planning and execution and a 25% reduction in project cost.
+  - Worked closely with clients to assess current and future customer needs and priorities through direct communication and other methods, resulting in a 20% improvement in customer satisfaction and retention.
+
+## DiamNow LLP.
+- *Programmer Analyst* | MAY'21 - MAR'22
+- ![diamnow](../assets/diamnow.jpeg)
+- Tags: DiamNow LLP.
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Traced irregularities in the existing code structure of the product and optimized REST APIs, improving system performance and stability.
+  - Fixed existing code issues related to inefficient error handling, resulting in a 50% reduction in server crashes and enhanced overall system stability.
+  - Successfully manipulated data received from clients' software to match the database structure, ensuring a 25% improvement in data accuracy and consistency.
+  - Implemented JSON Web Token (JWT) authorization for secure authentication and access control, ensuring robust security measures throughout the applications.
+  - Managed application deployment and monitoring using PM2, ensuring high availability and performance of the deployed applications.
+  - Developed and implemented CI/CD integrations in GitLab for backend automatic deployments, reducing deployment time by 30% and increasing development efficiency.
+  - Designed and developed a microservice for live bidding of certified diamonds and dynamic email generation with automated delivery, leading to a 40% increase in user engagement and a 25% improvement in customer satisfaction.
+  - Worked closely with cross-functional teams to identify and resolve development constraints and deployment issues, resulting in a 20% reduction in project timelines and a 15% improvement in team collaboration and communication.
+  - Assisted in the collection and analysis of requirements and user stories to ensure project alignment with client needs.
+
+## Propelius Technologies
+- *Sr. Software Engineer* | MAR'22 - MAR'23
+- ![propelius_logo](../assets/propelius_logo.jpeg)
+- Tags: Propelius Technologies
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Designed, developed, and implemented scalable applications using Node.js and Express.js, leveraging asynchronous programming techniques, resulting in a 20% reduction in errors and a 15% improvement in system uptime.
+  - Utilized cloud-based technologies such as Heroku and AWS to build robust and high-performance web and mobile solutions.
+  - Implemented JSON Web Token (JWT) authorization for secure authentication and access control, ensuring robust security measures throughout the applications.
+  - Utilized Redis DB for automated scheduled jobs, improving task management efficiency by 30% and ensuring timely execution of critical processes.
+  - Managed application deployment and monitoring using PM2, ensuring high availability and performance of the deployed applications.
+  - Implemented unit tests using frameworks like Jest and Mocha to ensure code quality and maintainability.
+  - Assumed a leadership role in training and mentoring junior team members, resulting in a 30% increase in productivity and a 50% decrease in code defects.
+  - Actively contributed to Agile development practices, following Git version control and participating in sprint planning, stand-ups, and retrospectives.
+  - Prepared and presented reports on project costs, design concepts, and changes.
+  - Apple Pay integration in https://www.lawpocket.com
+  - Developed and deployed a scalable rental e-commerce platform for https://www.livlyt.com, resulting in a 20% increase in user engagement and a 15% improvement in system performance.Implemented JWT authorization for secure user authentication and protected access to sensitive data.Managed application deployment and monitoring using PM2.
+  - Integrated Stripe as a payment gateway, resulting in a 25% increase in revenue and a 10% improvement in customer satisfaction.
+  - Successfully worked on a Laravel project with no prior experience, delivering all tickets before the estimation period.
+  - Built a backend development team, resulting in a 30% increase in productivity and a 20% reduction in project timelines.
+  - Collaborated with product owners and stakeholders to gather and analyze requirements, resulting in a 20% improvement in product quality and user satisfaction.Implemented JWT-based authorization to enforce role-based access control
