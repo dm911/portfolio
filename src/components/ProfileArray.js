@@ -73,6 +73,7 @@ const ProfileArray = () => {
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");
+          
         }
         return response.text();
       })

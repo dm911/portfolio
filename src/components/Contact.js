@@ -31,6 +31,7 @@ export default function Contact({ color }) {
           spacing={{ base: 8, md: 14 }}
           pb={{ base: 20, md: 36 }}
         >
+          
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
