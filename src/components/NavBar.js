@@ -89,7 +89,6 @@ export default function Nav({ color }) {
             ))}
           </HStack>
         </Link>
-
         <Flex alignItems={"center"}>
           <Stack direction={"row"} spacing={7}>
             {isLargerThanMD ? (
